@@ -1,0 +1,68 @@
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\roslyn\csc.exe
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\roslyn\vbc.exe
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\CountryInfro.dll.config
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\CountryInfro.dll
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\CountryInfro.pdb
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\obj\Debug\CountryInfro.csprojResolveAssemblyReference.cache
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\obj\Debug\CountryInfro.dll
+D:\Desktop\.Net deveploment\Project\CountryInfro\CountryInfro\obj\Debug\CountryInfro.pdb
+D:\Desktop\CountryInfro\CountryInfro\bin\roslyn\csc.exe
+D:\Desktop\CountryInfro\CountryInfro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\CountryInfro\CountryInfro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\CountryInfro\CountryInfro\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\roslyn\vbc.exe
+D:\Desktop\CountryInfro\CountryInfro\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\CountryInfro\CountryInfro\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\CountryInfro\CountryInfro\bin\CountryInfro.dll.config
+D:\Desktop\CountryInfro\CountryInfro\bin\CountryInfro.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\CountryInfro.pdb
+D:\Desktop\CountryInfro\CountryInfro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\CountryInfro\CountryInfro\obj\Debug\CountryInfro.csprojResolveAssemblyReference.cache
+D:\Desktop\CountryInfro\CountryInfro\obj\Debug\CountryInfro.dll
+D:\Desktop\CountryInfro\CountryInfro\obj\Debug\CountryInfro.pdb
+D:\Desktop\CountryInfro\CountryInfro\bin\AjaxControlToolkit.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\AjaxControlToolkit.pdb
+D:\Desktop\CountryInfro\CountryInfro\bin\ar\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\cs\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\de\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\es\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\fr\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\he\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\hi\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\it\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\ja\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\ko\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\nl\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\pt\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\ru\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\EntityFramework.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\Newtonsoft.Json.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\System.Net.Http.Formatting.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\System.Web.Http.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\System.Web.Http.WebHost.dll
+D:\Desktop\CountryInfro\CountryInfro\bin\EntityFramework.xml
+D:\Desktop\CountryInfro\CountryInfro\bin\Newtonsoft.Json.xml
+D:\Desktop\CountryInfro\CountryInfro\bin\System.Net.Http.Formatting.xml
+D:\Desktop\CountryInfro\CountryInfro\bin\System.Web.Http.xml
+D:\Desktop\CountryInfro\CountryInfro\bin\System.Web.Http.WebHost.xml
