@@ -101,6 +101,7 @@
     <Content Include="Admin\Assets\image\3.jpg" />
     <Content Include="Admin\Detail.aspx" />
     <Content Include="Assets\Css\Login.css" />
+    <Content Include="Fav.aspx" />
     <Content Include="Home1.aspx" />
     <Content Include="Home2.aspx" />
     <Content Include="Login.aspx" />
@@ -183,6 +184,13 @@
       <DependentUpon>Detail.aspx</DependentUpon>
     </Compile>
     <Compile Include="CountryInfo.cs" />
+    <Compile Include="Fav.aspx.cs">
+      <DependentUpon>Fav.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Fav.aspx.designer.cs">
+      <DependentUpon>Fav.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Home1.aspx.cs">
       <DependentUpon>Home1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

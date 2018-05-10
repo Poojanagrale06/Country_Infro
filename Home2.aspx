@@ -12,8 +12,12 @@
     <%-- First Row--%>
 <asp:Repeater ID="Repeater" runat="server" DataSourceID="SqlDataSource1">
        <ItemTemplate>
-           <asp:Label ID="Label7" runat="server" Text='<%#Eval("Country_Name") %>'  style="color:Black; font-size:20px; text-decoration:solid"></asp:Label><hr><i style="font-size:24px" class="fa">&#xf08a;</i>
-
+           <asp:Label ID="name" runat="server" Text='<%#Eval("Country_Name") %>'  style="color:Black; font-size:20px; text-decoration:solid"><br/>
+               
+           </asp:Label>
+           <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="Assets\Images\1.jpg" OnClick="ImageButton1_Click" />
+           <hr>
+          
            <h4 style="align-content:center;">Country Information</h4>
         
       <div class="row">

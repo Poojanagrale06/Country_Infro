@@ -14,6 +14,18 @@ namespace CountryInfro
 
         }
 
-       
+        protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
+        {
+            //for cookies
+
+            HttpCookie cookies = new HttpCookie("Fava");
+            cookies["Name"] = ("name");
+
+
+            Response.Cookies.Add(cookies);
+            Response.Redirect("Fav.aspx");
+            
+
+        }
     }
 }

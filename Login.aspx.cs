@@ -41,6 +41,7 @@ namespace CountryInfro
 
                 int output = Convert.ToInt32(cmd.ExecuteScalar());
                 if (output == 1)
+
                     Response.Redirect("Home1.aspx");
                 else
                     Response.Write("<script>alert('Login failed')</script>");
@@ -63,6 +64,15 @@ namespace CountryInfro
                 Response.Cookies["Username"].Value = Usertxt.Text.Trim();
                 Response.Cookies["Password"].Value = Passwordtxt.Text.Trim();
             }
+
+            //for Cookies
+            HttpCookie cookies = new HttpCookie("Userlogin");
+            cookies["Name"] = Usertxt.Text;
+           
+
+
+            Response.Cookies.Add(cookies);
+
         }
 
         //for Clear Control
